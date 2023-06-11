@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T08:21:58 EDT" name="inetBankingV2 Automation Test Suite" finished-at="2023-05-22T08:24:27 EDT" duration-ms="148906">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T08:21:58 EDT" name="inetBankingV2 Test Cases" finished-at="2023-05-22T08:24:27 EDT" duration-ms="148906">
+      <class name="com.guru99.qa.testcases.AddNewCustomerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:23:29 EDT" name="setUp" finished-at="2023-05-22T08:23:39 EDT" duration-ms="9453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyaddnewcustomerlable()[pri:1, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:23:39 EDT" name="verifyaddnewcustomerlable" finished-at="2023-05-22T08:23:39 EDT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddnewcustomerlable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:23:39 EDT" name="tearDown" finished-at="2023-05-22T08:23:40 EDT" duration-ms="1628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:23:42 EDT" name="setUp" finished-at="2023-05-22T08:23:49 EDT" duration-ms="6654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddnewCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:23:49 EDT" name="validateAddnewCustomer" data-provider="getGuru99TestData" finished-at="2023-05-22T08:23:50 EDT" duration-ms="981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jayul Patel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[09-May-1996]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dgsajgfwfjsadhvcbsagdzgbxdjhgd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Vaughn]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[L3S3X6]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4.372218747E9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[jayulpatel9@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[ghdvfjasdgskfdhfsdkjsh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddnewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:23:50 EDT" name="tearDown" finished-at="2023-05-22T08:23:52 EDT" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:23:52 EDT" name="setUp" finished-at="2023-05-22T08:24:02 EDT" duration-ms="10437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddnewCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:24:02 EDT" name="validateAddnewCustomer" data-provider="getGuru99TestData" finished-at="2023-05-22T08:24:03 EDT" duration-ms="601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shreyul Patel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[19-Apr.-1993]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sjfgBAXJnAHFGNJKhgdjgsdhfhvkzhxj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Marlton]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NJ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[123654.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4.563254789E9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[abcde@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[jfanxAGUGHLWGFJHGSK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddnewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:24:03 EDT" name="tearDown" finished-at="2023-05-22T08:24:05 EDT" duration-ms="2680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:24:05 EDT" name="setUp" finished-at="2023-05-22T08:24:12 EDT" duration-ms="6876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddnewCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:24:12 EDT" name="validateAddnewCustomer" data-provider="getGuru99TestData" finished-at="2023-05-22T08:24:13 EDT" duration-ms="591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jaydeep Patel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10-May-1996]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FHSJSGVJSBCJXISGDDBASKXGDB]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Vaughn]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[L4K0J6]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4.592634587E9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[erhakdlsb@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[sgshsvajsbcjsgsvcjcjsvxj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddnewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:24:13 EDT" name="tearDown" finished-at="2023-05-22T08:24:14 EDT" duration-ms="1264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:24:14 EDT" name="setUp" finished-at="2023-05-22T08:24:24 EDT" duration-ms="9678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateAddnewCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:24:24 EDT" name="validateAddnewCustomer" data-provider="getGuru99TestData" finished-at="2023-05-22T08:24:24 EDT" duration-ms="589" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jay Patel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12-Jun.-1996]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sgfdghjgvghhmvgfxvxffjbnvgfcjbj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Scarborough]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[M1H2Y4]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7.778866002E9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[dgssjagsifhf@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[sfsufjsbjkshvfkskscjdbf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddnewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.AddNewCustomerTest@4c60d6e9]" started-at="2023-05-22T08:24:24 EDT" name="tearDown" finished-at="2023-05-22T08:24:27 EDT" duration-ms="2242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.qa.testcases.AddNewCustomerTest -->
+      <class name="com.guru99.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.LoginPageTest@6e6f2380]" started-at="2023-05-22T08:21:58 EDT" name="setUp" finished-at="2023-05-22T08:22:11 EDT" duration-ms="12835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.guru99.qa.testcases.LoginPageTest@6e6f2380]" started-at="2023-05-22T08:22:11 EDT" name="loginPageTitleTest" finished-at="2023-05-22T08:22:11 EDT" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.LoginPageTest@6e6f2380]" started-at="2023-05-22T08:22:11 EDT" name="tearDown" finished-at="2023-05-22T08:22:14 EDT" duration-ms="3229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.LoginPageTest@6e6f2380]" started-at="2023-05-22T08:22:14 EDT" name="setUp" finished-at="2023-05-22T08:22:23 EDT" duration-ms="9088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Guru99LogImageTest()[pri:2, instance:com.guru99.qa.testcases.LoginPageTest@6e6f2380]" started-at="2023-05-22T08:22:23 EDT" name="Guru99LogImageTest" finished-at="2023-05-22T08:22:23 EDT" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Guru99LogImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.LoginPageTest@6e6f2380]" started-at="2023-05-22T08:22:23 EDT" name="tearDown" finished-at="2023-05-22T08:22:25 EDT" duration-ms="1736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.LoginPageTest@6e6f2380]" started-at="2023-05-22T08:22:25 EDT" name="setUp" finished-at="2023-05-22T08:22:35 EDT" duration-ms="9643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.guru99.qa.testcases.LoginPageTest@6e6f2380]" started-at="2023-05-22T08:22:35 EDT" name="loginTest" finished-at="2023-05-22T08:22:37 EDT" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.LoginPageTest@6e6f2380]" started-at="2023-05-22T08:22:37 EDT" name="tearDown" finished-at="2023-05-22T08:22:39 EDT" duration-ms="1930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.qa.testcases.LoginPageTest -->
+      <class name="com.guru99.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:22:39 EDT" name="setUp" finished-at="2023-05-22T08:22:46 EDT" duration-ms="7691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:1, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:22:46 EDT" name="verifyHomePageTitleTest" finished-at="2023-05-22T08:22:46 EDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:22:46 EDT" name="tearDown" finished-at="2023-05-22T08:22:48 EDT" duration-ms="1887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:22:48 EDT" name="setUp" finished-at="2023-05-22T08:23:00 EDT" duration-ms="11868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyGuru99SiteLogoTest()[pri:2, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:23:00 EDT" name="verifyGuru99SiteLogoTest" finished-at="2023-05-22T08:23:00 EDT" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGuru99SiteLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:23:00 EDT" name="tearDown" finished-at="2023-05-22T08:23:04 EDT" duration-ms="3705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:23:04 EDT" name="setUp" finished-at="2023-05-22T08:23:13 EDT" duration-ms="9423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTest()[pri:3, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:23:13 EDT" name="verifyTest" finished-at="2023-05-22T08:23:14 EDT" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:23:14 EDT" name="tearDown" finished-at="2023-05-22T08:23:16 EDT" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:23:16 EDT" name="setUp" finished-at="2023-05-22T08:23:27 EDT" duration-ms="11512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddCustomerTest()[pri:4, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:23:27 EDT" name="verifyAddCustomerTest" finished-at="2023-05-22T08:23:28 EDT" duration-ms="554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddCustomerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99.qa.testcases.HomePageTest@196a42c3]" started-at="2023-05-22T08:23:28 EDT" name="tearDown" finished-at="2023-05-22T08:23:29 EDT" duration-ms="1588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99.qa.testcases.HomePageTest -->
+    </test> <!-- inetBankingV2 Test Cases -->
+  </suite> <!-- inetBankingV2 Automation Test Suite -->
+</testng-results>
